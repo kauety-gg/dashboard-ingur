@@ -1,1 +1,1 @@
-# dashboard-ingur
+# dashboard-imgur
